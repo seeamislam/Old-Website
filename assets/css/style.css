@@ -1,20 +1,8 @@
-/*=============================================================
-    Authour URI: www.binarytheme.com
-    License: Commons Attribution 3.0
 
-    http://creativecommons.org/licenses/by/3.0/
-
-    100% To use For Personal And Commercial Use.
-    IN EXCHANGE JUST GIVE US CREDITS AND TELL YOUR FRIENDS ABOUT US
-   
-    ========================================================  */
-/* ===========================================================
-   GENERAL STYLES   
-   ============================================================*/
 body {
-   font-family:'Open Sans', sans-serif;
+   font-family: Arial;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 15px;
     color: #000;   
     margin-top: 40px;
     line-height:16px;
@@ -30,6 +18,11 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
     color:#11B674;
     font-weight: 700;
+}
+
+h2{
+	color: #0000ff;
+	
 }
 .text-center {
     text-align: center; 
@@ -60,9 +53,6 @@ p {
 .text-justify {
     text-align:justify;
 }
-/* ==========================================================================
-   COLOR CODES
-   ========================================================================== */
 
 .color-red {
     color:#ff0000;
@@ -86,9 +76,6 @@ p {
     color:#000000;
 }
 
-/* ==========================================================================
-   HEADER SECTION
-   ========================================================================== */
 
 #header-section {
 	background: url(../img/header.jpg) no-repeat center top;
@@ -127,19 +114,12 @@ p {
      color:white;
     font-weight:900;
 }
-/* ==========================================================================
-   ABOUT SECTION
-   ========================================================================== */
 
 #about-section {
     background-color: #FAFAFA;
    
 }
 
-
-/*==========================================
-   SOCIAL ICON STYLES
-    =====================================================*/
 
 .color-facebook {
     color:#3B5998;
@@ -156,9 +136,7 @@ p {
 .color-pinterest {
      color:#cb2027;
 }
-/* ===========================================================
-   BOOTSTRAP ELEMENTS CHANGES   
-   ============================================================*/
+
 .navbar {
 	font-size: 14px;
 }
@@ -186,16 +164,10 @@ border-color: #5D5B66;
 color: #FFFFFF;
 }
 
-/* ==========================================================================
-   CONTACT SECTION
-   ========================================================================== */
 
 #contact-section {
     background-color: #FAFAFA;
 }
-/* ==========================================================================
-   FOOTER SECTION
-   ========================================================================== */
    
 
 #footer {
