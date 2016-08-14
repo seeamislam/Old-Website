@@ -8,6 +8,12 @@ body {
     line-height:16px;
 }
 
+h4 
+{
+	
+	font-size: 22px;
+}
+
 h1, h2, h3, h4, h5, h6 {
       font-family:'Open Sans', sans-serif;
     font-weight: 500;
@@ -78,7 +84,7 @@ p {
 
 
 #header-section {
-	background: url(http://www.graphicsfuel.com/wp-content/uploads/2014/09/photo6-preview.jpg) no-repeat center top;
+	background: url(http://cdn.osxdaily.com/wp-content/uploads/2015/07/Mac-Animation-Studio-Office-Setup-5.jpg) no-repeat center top;
 	margin-top: -20px;
 	padding-top:20px;
 	text-align:center;
@@ -98,7 +104,7 @@ p {
 #header-section h1 {
 	margin-top: 120px;
 	color: white;
-	font-size: 65px;
+	font-size: 75px;
 	font-weight: 600;
 	letter-spacing: 4px;
     line-height:70px;
@@ -138,11 +144,11 @@ p {
 }
 
 .navbar {
-	font-size: 15px;
+	font-size: 16px;
 }
 
 .navbar-inverse {
-	background: #000000;
+	background: #000000; /* top header */
 border-color: #5D5B66;
 }
 
@@ -153,7 +159,7 @@ border-color: #5D5B66;
 .navbar-inverse .navbar-brand {
 	color: #ffffff;
 	font-weight: bolder;
-	font-size: 22px;
+	font-size: 20px;
     font-weight:700;
 	letter-spacing: 2px;
 }
@@ -171,7 +177,7 @@ color: #FFFFFF;
    
 
 #footer {
-    background-color: #2F11C4; 
+    background-color: #11B674; 
     color: #fff; 
     text-align: right; 
     padding: 10px 30px 10px 30px;
