@@ -16,7 +16,7 @@ h4
 
 h1, h3, h4, h5, h6 {
       font-family:'Open Sans', sans-serif;
-    font-weight: 500;
+    font-weight: 300;
    line-height:40px;
    
 }
@@ -24,13 +24,14 @@ h1, h3, h4, h5, h6 {
 h1 {
     color:#11B674;
     font-weight: 700;
+	font-family:tahoma;
 }
 
 h2{
-	font-family:'Open Sans', sans-serif;
-	   line-height:40px;
+	font-family:tahoma;
+	   line-height:60px;
 	color: #0000ff;
-font-weight: 300;
+font-weight: 10;
 }
 .text-center {
     text-align: center; 
