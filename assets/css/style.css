@@ -24,6 +24,12 @@ h1 {
     color:#11B674;
 
 }
+hr {
+    border: none;
+    height: 1px;
+    color: #D3D3D3; 
+    background-color: #D3D3D3; 
+}
 
 h2{
 
@@ -124,7 +130,7 @@ p {
 }
 
 #about-section {
-    background-color: #FAFAFA;
+    background-color: #FFFFFF;
    
 }
 
