@@ -20,7 +20,7 @@ hr {
 }
 h2 {
 	line-height: 20px;
-	font-size: 32px;
+	font-size: 40px;
 	font-weight: 700;
 	margin: 0;
 	color: #555;
@@ -30,22 +30,25 @@ h3 {
 	font-weight: 700;
 }
 h4 {
-	font-size: 20px;
+	font-size: 21px;
 	color: #666;
 	font-weight: 700;
 }
 h5 {
-	text-transform: uppercase;
-	font-weight: 700;
+	font-weight: 400;
 	line-height: 20px;
+	color: #B34B4B; 
+	font-size: 20px;
+
 }
 h6{
-	font-size: 20px;
+	font-size: 22px;
 	
 }
 
 p {
 	font-family: 'Open Sans', sans-serif;
+	font-size: 17px;
 }
 a {
 	color: #B34B4B;
@@ -106,9 +109,9 @@ hr {
 	margin-right: 3px;
 }
 #menu.navbar-default .navbar-nav > li > a {
-	text-transform: uppercase;
+
 	color:#B34B4B;
-	font-size: 14px;
+	font-size: 17px;
 	letter-spacing: 1px;
 }
 #menu.navbar-default .navbar-nav > li > a:hover {
@@ -168,7 +171,7 @@ header p {
 	border-radius: 4px;
 }
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
-	background-color: #B34B4B;
+	background-color: #FFF;
 	color: #B34B4B;
 	border-color: #B34B4B;
 }
@@ -257,9 +260,6 @@ ol.type li a:hover {
     text-align: center; 
 }
 #works-section i.fa {
-	height: 30px;
-	width: 30px;
-	border: 1px solid #F5AB35;
 	font-size: 20px;
 	padding: 5px;
 	border-radius: 50%;
@@ -290,7 +290,7 @@ ol.type li a:hover {
 }
 #contact-section i.fa {
 	color: #B34B4B;
-	font-size: 16px;
+	font-size: 40px;
 	margin-bottom: 10px;
 }
 label {
